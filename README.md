@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harshad Babangiri Gosawi</h1>
-<h3 align="center">Hello! I'm a software engineer with a passion for developing innovative solutions and optimizing code. When I'm not immersed in programming, you'll find me indulging in my love for gaming, exploring new virtual worlds, and staying up-to-date with the latest in the gaming industry. Let's connect and share our tech and gaming adventures!</h3>
+<h3 align="center">I'm a software engineer with a passion for developing innovative solutions and optimizing code. When I'm not immersed in programming, you'll find me indulging in my love for gaming, exploring new virtual worlds, and staying up-to-date with the latest in the gaming industry. Let's connect and share our tech and gaming adventures!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzhyp3r&label=Profile%20views&color=0e75b6&style=flat" alt="itzhyp3r" /> </p>
 
